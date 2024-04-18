@@ -1,0 +1,6 @@
+
+#in order to use this program youll need to install the following liberaries
+mediapipe
+opencv-python
+scipy
+uuid
